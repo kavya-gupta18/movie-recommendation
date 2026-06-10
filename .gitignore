@@ -1,0 +1,7 @@
+.env
+venv1/
+.venv/
+__pycache__/
+
+movies_metadata.csv
+movie.py
